@@ -1,0 +1,385 @@
+id,name,type,total_value
+1,cash_pickup_maize_bundle_0.25_acre,Paid Upfront,2400.00
+2,cash_pickup_maize_bundle_0.5_acre_old,Paid Upfront,4150.00
+3,cash_pickup_maize_bundle_1_acre_old,Paid Upfront,7550.00
+4,cash_pickup_PICS_5_units,Paid Upfront,1200.00
+8,Old_cash_pickup_can_boost_1_acre_old,Paid Upfront,2050.00
+9,old_cash_pickup_can_boost_0.5_acre,Paid Upfront,985.00
+10,OLD_cash_pickup_dap_boost_1.5_acre,Paid Upfront,4574.00
+12,cash_pickup_dap_boost_0.5_acre_old,Paid Upfront,1600.00
+13,cash_pickup_urea_boost_1.5_acre,Paid Upfront,4048.00
+14,cash_pickup_urea_boost_1_acre_old,Paid Upfront,2650.00
+15,cash_pickup_urea_boost_0.5_acre_old,Paid Upfront,1400.00
+17,cash_pickup_soil_improver_0.5_acre,Paid Upfront,800.00
+18,OLD_cash_pickup_charcoal_cookstove,Paid Upfront,3320.00
+19,cash_iron_sheet_3m_8_units,Paid Upfront,7680.00
+20,cash_pickup_wheelbarrow,Paid Upfront,3299.00
+21,cash_pickup_sprayer_old,Paid Upfront,2200.00
+22,cash_pickup_paygo_sunking_boom,Paid Upfront,5300.00
+26,loan_pickup_maize_bundle_1_acre_old,Loan,8305.00
+27,OLD_loan_pickup_maize_bundle_0.5_acre,Loan,4565.00
+28,loan_pickup_maize_bundle_0.25_acre_old,Loan,2827.00
+29,loan_pickup_PICS_10_units_old,Loan,2640.00
+30,loan_pickup_harvest_drying_sheet_old,Loan,3410.00
+31,OLD_loan_pickup_can_boost_1.5_acre,Loan,3227.00
+32,loan_pickup_can_boost_1_acre_old,Loan,2255.00
+33,loan_pickup_dap_boost_1.5_acre_old,Loan,5060.00
+34,OLD_loan_pickup_dap_boost_1_acre_old,Loan,3300.00
+35,loan_pickup_dap_boost_0.5_acre_old,Loan,1760.00
+36,loan_pickup_urea_boost_1.5_acre,Loan,4453.00
+37,loan_pickup_urea_boost_1_acre_old,Loan,2915.00
+38,OLD_loan_pickup_urea_boost_0.5_acre,Loan,1539.00
+39,loan_pickup_soil_improver_1_acre,Loan,1661.00
+40,OLD_loan_pickup_charcoal_cookstove,Loan,3652.00
+41,loan_iron_sheet_3m_8_units,Loan,8448.00
+42,loan_pickup_wheelbarrow_old,Loan,4026.00
+43,loan_pickup_sprayer_old,Loan,2420.00
+44,loan_pickup_paygo_sunking_boom,Loan,6095.00
+45,loan_pickup_paygo_sunking_home,Loan,10235.00
+46,loan_pickup_paygo_sunking_pro,Loan,4600.00
+47,loan_pickup_paygo_biolite_home,Loan,10695.00
+48,loan_pickup_sunking_pico,Loan,900.00
+49,loan_test_10_ksh,Loan,34.00
+50,loan_pickup_soil_improver_2.5_acre,Loan,4090.00
+52,Old_cash_delivery_maize_bundle_1_acre,Paid Upfront,7574.00
+53,Old_old_cash_delivery_maize_bundle_0.5_acre,Paid Upfront,4234.00
+54,cash_delivery_maize_bundle_0.25_acre,Paid Upfront,2550.00
+56,cash_delivery_PICS_5_units,Paid Upfront,1350.00
+58,Old_cash_delivery_can_boost_1_acre,Paid Upfront,2099.00
+7,OLD_cash_pickup_can_boost_1.5_acre,Paid Upfront,3700.00
+11,cash_pickup_dap_boost_1_acre_old,Paid Upfront,3000.00
+59,old_cash_delivery_can_boost_0.5_acre,Paid Upfront,1135.00
+60,OLD_cash_delivery_can_boost_1.5_acre,Paid Upfront,3850.00
+62,cash_delivery_dap_boost_1_acre_old,Paid Upfront,3150.00
+63,cash_delivery_dap_boost_1.5_acre_old,Paid Upfront,4750.00
+64,OLD_cash_delivery_urea_boost_0.5_acre,Paid Upfront,1549.00
+65,OLD_cash_delivery_urea_boost_1_acre,Paid Upfront,2799.00
+77,loan_pickup_iron_sheet_3m_8_units,Loan,10560.00
+78,old_loan_delivery_can_boost_1_acre,Loan,2294.00
+79,loan_delivery_charcoal_cookstove,Loan,4869.00
+80,OLD_loan_delivery_dap_boost_0.5_acre,Loan,1909.00
+81,OLD(2)_loan_delivery_dap_boost_1_acre,Loan,3423.00
+82,loan_delivery_harvest_drying_sheet_old,Loan,3725.00
+83,loan_delivery_maize_bundle_0.25_acre,Loan,2790.00
+84,loan_delivery_maize_bundle_0.5_acre_old,Loan,4880.00
+85,OLD_loan_delivery_can_boost_1.5_acre,Loan,4220.00
+86,OLD_loan_delivery_dap_boost_1.5_acre,Loan,5181.00
+87,loan_delivery_wheelbarrow,Loan,3779.00
+89,loan_delivery_iron_sheet_3m_8_units,Loan,10710.00
+93,OLD_loan_delivery_urea_boost_1_acre,Loan,3064.00
+94,OLD_loan_delivery_urea_boost_0.5_acre,Loan,1689.00
+96,cash_pickup_dap_boost_2_acre,Paid Upfront,5950.00
+97,OLD_cash_delivery_dap_boost_1.5_acre,Paid Upfront,4724.00
+98,OLD_cash_delivery_dap_boost_1_acre,Paid Upfront,3125.00
+99,old_cash_pickup_can_boost_1_acre,Paid Upfront,1949.00
+100,OLD_cash_pickup_dap_boost_0.5_acre,Paid Upfront,1599.00
+101,OLD_cash_pickup_dap_boost_1_acre,Paid Upfront,2975.00
+102,Old_cash_pickup_maize_bundle_0.5_acre,Paid Upfront,4084.00
+103,old_cash_pickup_maize_bundle_1_acre,Paid Upfront,7424.00
+105,OLD_cash_pickup_urea_boost_1_acre,Paid Upfront,2649.00
+106,OLD_cash_pickup_urea_boost_0.5_acre,Paid Upfront,1399.00
+107,old_loan_pickup_can_boost_1_acre,Loan,2144.00
+108,OLD(2)_loan_pickup_dap_boost_0.5_acre,Loan,1759.00
+109,OLD_loan_pickup_dap_boost_1.5_acre,Loan,5031.00
+110,OLD(2)_loan_pickup_dap_boost_1_acre,Loan,3273.00
+111,OLD_OLD_loan_pickup_harvest_drying_sheet,Loan,3685.00
+112,loan_pickup_maize_bundle_0.25_acre,Loan,2640.00
+113,old_loan_pickup_maize_bundle_0.5_acre,Loan,4492.00
+114,old_loan_pickup_maize_bundle_1_acre,Loan,8166.00
+115,loan_pickup_PICS_10_units,Loan,2640.00
+116,loan_pickup_sprayer,Loan,2694.00
+117,OLD_loan_pickup_urea_boost_1_acre,Loan,2914.00
+118,loan_pickup_wheelbarrow,Loan,3629.00
+119,old_loan_delivery_maize_bundle_0.5_acre,Loan,4642.00
+121,old_loan_delivery_maize_bundle_1_acre,Loan,8316.00
+122,thomas_can_boost_3_acre_5_maize_units,Loan,8932.00
+123,OLD_loan_delivery_dap_can_boost_1_acre,Loan,5567.00
+124,OLD_loan_delivery_2_harvest_drying_sheets,Loan,6850.00
+125,Old_cash_delivery_can_dap_boost_0.5_acre,Paid Upfront,2734.00
+127,loan_delivery_2_harvest_drying_sheets,Loan,7300.00
+128,loan_pickup_harvest_drying_sheet,Loan,3575.00
+129,old_loan_pickup_dap_can_boost_1_acre,Loan,5417.00
+130,old_loan_pickup_dap_can_boost_0.5_acre,Loan,2843.00
+131,old_loan_delivery_dap_can_boost_0.5_acre,Loan,2993.00
+132,old_loan_delivery_dap_can_boost_1_acre,Loan,5717.00
+133,Old_cash_pickup_dap_can_boost_1_acre,Paid Upfront,4924.00
+136,old_cash_delivery_dap_can_boost_1_acre,Paid Upfront,5074.00
+138,loan_delivery_maize_5_units_Kenya_Seed,Loan,2295.00
+139,loan_pickup_maize_10_units_Kenya_Seed,Loan,4290.00
+140,loan_pickup_maize_5_units_Kenya_Seed,Loan,2145.00
+142,loan_delivery_maize_5_units_Other,Loan,2750.00
+143,OLD_loan_pickup_maize_5_units_Other,Loan,2900.00
+144,loan_pickup_maize_10_units_Other,Loan,5500.00
+148,cash_pickup_maize_5_units_Kenya_Seed,Paid Upfront,1950.00
+152,cash_pickup_maize_5_units_Other,Paid Upfront,2500.00
+160,cash_pickup_special_offer_luke_dap_maize,Paid Upfront,21700.00
+161,cash_pickup_special_offer_iron_sheets_2.5_m_shinoyi,Paid Upfront,13160.00
+162,loan_pickup_dap_boost_2_acre,Loan,6790.00
+163,cash_delivery_dap_can_boost_2.5_acre,Paid Upfront,24920.00
+164,special_offer_loan_pickup_paygo_biolite_home,Loan,10695.00
+165,special_offer_cash_pickup_dap_can_urea,Paid Upfront,7423.00
+166,special_offer_cash_pickup_dap_can_shivikwa,Paid Upfront,3548.00
+167,special_offer_cash_pickup_dap_maize_bernadette,Paid Upfront,4145.00
+168,loan_pickup_iron_sheet_2.5m_8_units,Loan,8272.00
+170,cash_pickup_maize_single_3_units_Kenya_Seed,Paid Upfront,1170.00
+171,cash_pickup_maize_single_2_units_Kenya_Seed,Paid Upfront,780.00
+173,cash_pickup_maize_single_3_units_Other,Paid Upfront,1500.00
+174,cash_pickup_maize_single_2_units_Other,Paid Upfront,1000.00
+175,cash_pickup_maize_single_1_unit_Other,Paid Upfront,500.00
+177,cash_pickup_iron_sheet_2.5m_10_units,Paid Upfront,9400.00
+178,special_offer_cash_pickup_dap_maize_shivikwa,Paid Upfront,12109.00
+181,cash_special_offer_musungu_maize_bundle_3_acres,Paid Upfront,24871.00
+182,cash_pickup_charcoal_cookstove,Paid Upfront,4290.00
+183,loan_pickup_charcoal_cookstove,Loan,4719.00
+184,cash_pickup_dap_boost_6_acres,Paid Upfront,17550.00
+186,cash_pickup_special_offer_obulamu_lime_bundle,Paid Upfront,8934.00
+188,cash_pickup_iron_sheet_2.5m_8_units,Paid Upfront,7520.00
+190,loan_delivery_iron_sheet_2.5m_8_units,Loan,8422.00
+191,cash_pickup_special_offer_dap_4.5_acres,Paid Upfront,13772.00
+192,loan_pickup_special_offer_ingotse_dap_can_5_acres,Loan,27082.00
+193,cash_pickup_iron_sheet_3m_19_units,Paid Upfront,22800.00
+194,cash_pickup_special_offer_dap_1_acre_urea_1_acre,Paid Upfront,5624.00
+195,loan_pickup_maize_bundle_3_acre,Loan,24499.00
+196,cash_pickup_dap_boost_0.125_acre,Paid Upfront,425.00
+198,cash_pickup_dap_boost_0.25_acre,Paid Upfront,825.00
+199,loan_pickup_dap_boost_0.25_acre,Loan,908.00
+202,loan_pickup_maize_bundle_1/8_acre,Loan,1254.00
+204,Cash_special_Offer_DAP_Maize_Luke,Paid Upfront,12795.00
+205,loan_pickup_dap_urea_1_acre,Loan,6186.00
+206,loan_delivery_dap_urea_1_acre,Loan,6336.00
+207,loan_pickup_dap_urea_0.5_acre,Loan,3298.00
+210,cash_pickup_dap_1_acre_maize_10_pieces_other,Paid Upfront,7975.00
+211,loan_pickup_dap_can_urea_1_acre,Loan,4000.00
+213,OLD_loan_pickup_can_boost_0.5_acre,Loan,8828.00
+215,loan_pickup_iron_sheet_3m_10_units,Loan,13200.00
+217,cash_pickup_dap_can_50kg_3_maize_units,Paid Upfront,6424.00
+218,old_cash_pickup_maize_bundle_1.5_acre,Paid Upfront,11508.00
+219,cash_pickup_can_dap_boost_shivikwha_offer,Paid Upfront,7899.00
+220,loan_pickup_dap_3_acre_urea_1_acre_maize_6_units,Loan,16032.00
+221,loan_pickup_can_boost_0.125_acre,Loan,358.00
+223,Special_maize_bundle_3acre_urea_2acre_dap_boost_1acre,Paid Upfront,30245.00
+224,loan_pickup_dap_can_urea_1_acre,Loan,8330.00
+226,old_loan_pickup_can_boost_0.5_acre,Loan,1084.00
+227,cash_pickup_can_boost_0.25_acre,Paid Upfront,595.00
+229,loan_pickup_can_boost_0.25_acre,Loan,633.00
+231,cash_pickup_urea_boost_0.25_acre,Paid Upfront,780.00
+232,loan_pickup_urea_boost_0.25_acre,Loan,858.00
+233,Old_loan_pickup_urea_boost_0.125_acre,Loan,440.00
+234,loan_pickup_dap_1_acre_maize_3_pieces_other,Loan,4579.00
+235,cash_pickup_maize_bundle_1_acre_dap_0.5_acre_can_0.5_acre,Paid Upfront,10008.00
+236,cash_pickup_dap_boost_0.5_acre_maize_2_units,Paid Upfront,2379.00
+237,cash_pickup_dap_0.5_acre_can_0.5_acre_urea_0.5_acre_maize_2_units_kenya_seed,Paid Upfront,4763.00
+238,loan_pickup_dap_1.5_acre_maize_2_units_other,Loan,6634.00
+239,loan_pickup_maize_bundle_0.25_maize_1_unit_other,Loan,3188.00
+240,Old_cash_delivery_can_boost_0.5_acre,Paid Upfront,1250.00
+242,loan_pickup_maize_5_units_Other,Loan,2750.00
+244,old_cash_delivery_can_dap_boost_0.5_acre,Paid Upfront,2849.00
+245,loan_pickup_can_1_acre_dap_0.5_acre,Loan,4053.00
+246,old_cash_pickup_urea_2_acres_can_1acre,Paid Upfront,7247.00
+247,cash_pickup_urea_2_acres_can_1acre,Paid Upfront,7398.00
+248,old_cash_delivery_dap_can_boost_1_acre,Paid Upfront,5225.00
+249,old_old_cash_pickup_can_boost_0.5_acre,Paid Upfront,1100.00
+251,cash_dap_urea_boost_1_acre,Paid Upfront,5624.00
+252,loan_pickup_dap_0.5_acre_can_1_acre_2_maize_kenya_seed,Loan,4927.00
+253,loan_pickup_dap_boost_0.5_maize_2_units_other,Loan,4373.00
+254,loan_pickup_harvest_drying_sheet_2_units,Loan,7150.00
+255,loan_pickup_can_dap_1_acre_maize_kenya_seed_2_units,Loan,6441.00
+256,loan_pickup_dap_can_boost_0.25_acre,Loan,1562.00
+259,cash_pickup_dap_0.5_acre_maize_1pkt_other,Paid Upfront,2099.00
+260,loan_pickup_can_boost_1_acre_maize_5_units_kenya_seed,Loan,4455.00
+261,loan_pickup_dap_0.5_acre_maize_1_unit_kenya_seed,Loan,2188.00
+262,loan_pickup_dap_0.5_acre_maize_1_unit_other,Loan,2320.00
+263,loan_pickup_maize_bundle_1.5_acre,Loan,12951.00
+264,loan_delivery_can_boost_1.5acre_knapsack_1_unit,Loan,6364.00
+265,loan_pickup_dap_0.5_acre_urea_1_acre,Loan,4673.00
+266,loan_pickup_dap_boost_4_acre_can_1_acre,Loan,15400.00
+267,cash_pickup_dap_boost_3_acres_maize_10_units_kanya_seed,Paid Upfront,12825.00
+269,Loan_delivery_can_boost_0.5_acre,Loan,1635.00
+271,Loan_pickup_urea_2_acres,Loan,5828.00
+273,Loan_delivery_can_4_acres,Loan,9390.00
+274,Loan_pickup_can_4_acres,Loan,9240.00
+275,Loan_pickup_maize_bundle_0.5_lime_1acre,Loan,6153.00
+276,cash_pickiup_dap_12.5_maize_1_unit_others,Paid Upfront,1325.00
+277,loan_pickup_can_urea_boost_0.5_acres,Loan,2749.00
+278,cash_pickup_dap_boost_5_acres,Paid Upfront,14875.00
+279,cash_pickup_iron_sheets_3m_15_units,Paid Upfront,18000.00
+280,old_cash_pickup_can_boost_2_acres,Paid Upfront,4200.00
+281,loan_pickup_maize_bundle_2_acres,Loan,16332.00
+283,loan_delivery_iron_sheet_10_units,Loan,13350.00
+284,loan_pickup_iron_sheets_2.5_M_10_units,Loan,10340.00
+289,Old_cash_delivery_maize_bundle_0.5_acre,Paid Upfront,4434.00
+290,OLD_cash_delivery_maize_bundle_0.5_acre,Paid Upfront,4434.00
+291,Old _Old_cash_delivery_maize_bundle_1_acre,Paid Upfront,7874.00
+292,OLD_cash_delivery_maize_bundle_1_acre,Paid Upfront,7874.00
+293,OLD(2)_cash_pickup_can_boost_0.5_acre,Paid Upfront,1300.00
+294,cash_pickup_can_boost_1_acre,Paid Upfront,2400.00
+295,cash_pickup_can_boost_2_acres,Paid Upfront,4800.00
+296,cash_pickup_dap_can_boost_1_acre,Paid Upfront,5375.00
+297,OLD_cash_pickup_maize_bundle_0.5_acre,Paid Upfront,4284.00
+298,OLD_cash_pickup_maize_bundle_1_acre,Paid Upfront,7624.00
+301,loan_delivery_dap_can_boost_0.5_acre,Loan,3339.00
+303,cash_pickup_dap_6.25_harvest_drying_sheet_1_unit,Paid Upfront,3675.00
+304,OLD_loan_delivery_maize_bundle_0.5_acre,Loan,4862.00
+305,OLD_loan_delivery_maize_bundle_1_acre,Loan,8646.00
+307,OLD(2)_loan_pickup_can_boost_0.5_acre,Loan,1430.00
+308,loan_pickup_dap_can_boost_0.5_acre,Loan,3189.00
+309,loan_pickup_dap_can_boost_1_acre,Loan,5913.00
+311,OLD_loan_pickup_maize_bundle_1_acre,Loan,8496.00
+313,cash_pickup_dap_1.5_acres_maize_7_pkts_other,Paid Upfront,8074.00
+314,cash_pickup_dap_can_urea_3_acres_maize_5_units_other,Paid Upfront,25602.00
+315,cash_pickup_can_urea_1_acre,Paid Upfront,5049.00
+316,loan_pickup_dap_2_acres_can_3acres,Loan,14465.00
+317,loan_pickup_dap_3_acres_pics_10_units_maize_10_units_others,Loan,20378.00
+318,loan_pickup_dap_3_acres_maize_10_units_other,Loan,15428.00
+319,loan_pickup_can_boost_1_acre,Loan,2640.00
+320,OLD_loan_pickup_maize_bundle_0.5acres,Loan,4712.00
+321,cash_pickup_dap_7_acres_can_5_acres,Paid Upfront,30570.00
+322,loan_pickup_urea_boost_7_acres,Loan,20397.00
+323,loan_pickup_can_2_acres,Loan,5280.00
+324,loan_pickup_can_boost_1_acre_Ainea,Loan,2145.00
+325,loan_pickup_dap_can_4_acres,Loan,23650.00
+326,loan_pickup_iron_sheets_3m_10_units,Loan,13200.00
+327,loan_pickup_ironsheet_2.5m_12_units_iron_sheets_3m_18_units,Loan,35732.00
+328,loan_pickup_can_urea_1.5_acres,Loan,8523.00
+329,loan-pickup_can_urea_0.5_acres,Loan,2969.00
+330,loan_pickup_can_3_acres,Loan,7920.00
+332,loan_pickup_dap_2_acre_urea_2_acres,Loan,12373.00
+334,loan_pickup_can_urea_1_acre,Loan,5554.00
+336,loan_pickup_dap_3_acres_maize_5_units,Loan,12623.00
+337,loan_pickup_can_1_acre_urea_3_acres,Loan,11382.00
+338,loan_pickup_can_2_acres_urea_1_acre,Loan,8194.00
+339,loan_pickup_dap_2_acres_can_1_acre_urea_4_acres,Loan,20841.00
+340,loan_pickup_dap_2_acres_urea_4_acres,Loan,18201.00
+342,loan_pickup_dap_2_acres_can_2_acres,Loan,11825.00
+347,loan_pickup_dap_2_acres_can_4_acres_urea_7_acres,Loan,32102.00
+348,cash_pickup_dap_1_acre_urea_1.25_acres,Paid Upfront,6404.00
+351,loan_pickup_can_urea_0.5_acres,Loan,3024.00
+352,cash_pickup_can_0.5_acre_wheelbarrow_1_piece,Paid Upfront,4599.00
+353,loan_pickup_dap_boost_0.5_can_1_acre,Loan,4399.00
+354,cash_pickup_ironsheets_3metres_34units,Paid Upfront,40800.00
+355,cash_pickup_can_0.75_acres,Paid Upfront,2000.00
+356,cash_delivery_maize_bundle_0.5_acre,Paid Upfront,4484.00
+359,cash_pickup_maize_bundle_1_acre,Paid Upfront,7899.00
+362,loan_pickup_maize_bundle_0.5acres,Loan,4960.00
+366,cash_pickup_urea_boost_0.5_acre,Paid Upfront,1599.00
+367,cash_pickup_urea_boost_1_acre,Paid Upfront,2899.00
+370,loan_pickup_urea_boost_0.5_acre,Loan,1741.00
+371,loan_pickup_urea_boost_1_acre,Loan,3163.00
+372,cash_delivery_can_boost_1.5_acre,Paid Upfront,3900.00
+376,loan_pickup_can_boost_1.5_acre,Loan,3276.00
+380,loan_pickup_can_4.5_acres,Loan,11990.00
+381,loan_pickup_can_boost_0.5_acre,Loan,1485.00
+382,cash_pickup_can_boost_0.5_acre,Paid Upfront,1350.00
+383,loan_pickup_dap_boost_0.5_acre,Loan,1980.00
+384,loan_pickup_dap_boost_1_acre,Loan,3795.00
+388,cash_pickup_dap_boost_1_acre,Paid Upfront,3450.00
+390,Havillah_Loan_test,Loan,21.00
+391,loan_pickup_urea_1_acre_can_0.5_acre,Loan,3997.00
+392,loan_pickup_can_7_acres,Loan,18480.00
+395,Loan_dap_6kg,Loan,21.00
+396,Loan_dap_6kg Copy,Loan,470.00
+398,irine_test_shinoyi,Paid Upfront,2.00
+404,cash_pick_up_test_10_kak,Paid Upfront,10.00
+406,Group Loan _ Old,Loan,27.00
+408,SunKing Boom PayGo-Enabled - PayGo Loan_OLD_21_07_21,Loan,6223.00
+409,SunKing Home System (incl.Radio) PayGo-Enabled - PayGo Loan_OLD_21_07_21,Loan,10230.00
+410,OLD-Changed-1/31/22-SunKing Pro PayGo-Enabled - PayGo Loan,Loan,4450.00
+411,OLD-Changed-1/31/22-Biolite Home System PayGo-Enabled - PayGo Loan,Loan,12695.00
+413,OLD-updated:2/2/22-SunKing Home System (incl.Radio) PayGo-Enabled - PayGo Loan,Loan,12940.00
+414,Product Repayment Model 1,Loan,195.00
+415,Product Repayment model 2,Loan,195.00
+416,Product Repayment model 3,Loan,195.00
+417,Product Repayment model 4,Loan,195.00
+418,Product Repayment model 5,Loan,251.00
+419,Group Loan 30th Jan_22,Loan,20.64
+421,SunKing Boom PayGo-Enabled - PayGo Loan - IPP,Loan,7816.00
+422,SunKing Pro PayGo-Enabled - PayGo Loan - IPP,Loan,5559.00
+423,Biolite Home System PayGo-Enabled - PayGo Loan - IPP,Loan,15408.00
+425,IHD Pilot - IPP,Loan,308.00
+430,[Credit Score Test] Individual Loan - IPP,Loan,8.00
+435,SunKing Pro PayGo-Enabled - PayGo Loan,Loan,5559.00
+439,IHD Pilot,Loan,308.00
+458,Individual Loan - IHD,Loan,8.00
+441,Individual Loan IPP - Old,Loan,8.00
+432,Individual Loan_Old,Loan,12857.14
+453,Individual Loan with SHS - Sun King Mumias,Loan,11.86
+420,Group Loan 7th Mar 2022,Loan,14.14
+437,Energy; Sun King Boom - Paygo Enabled [Stock] - PayGo Loan,Loan,7816.00
+438,SunKing Home System (incl.Radio) PayGo-Enabled - PayGo Loan,Loan,16046.00
+433,Energy; Biolite Home System PayGo - Enabled [Stock] - PayGo Loan,Loan,15408.00
+407,Cash Sales IPP,Paid Upfront,
+456,Energy; Sun King Boom - Paygo Enabled [Stock] - Cash sales with Solar light,Paid Upfront,
+460,Energy; Sun King Boom - Paygo Enabled [Stock] - PayGo Loan IHD,Loan,7816.00
+424,SunKing Home System (incl.Radio) PayGo-Enabled - PayGo Loan IPP,Loan,16046.00
+448,Individual Loan with SHS - Biolite Mumias,Loan,11.86
+434,Group Loan 3rd October 2022,Loan,16.14
+412,OLD<>Changed-1/31/22-SunKing Boom PayGo-Enabled - PayGo Loan,Loan,6360.00
+455,SunKing Home System (incl.Radio) - Cash sales with Solar light,Paid Upfront,
+461,SunKing Pro PayGo-Enabled - PayGo Loan - IHD,Loan,5559.00
+471,Energy; Sun King Pro Paygo-enabled [Stock] - Cash Sales with Solar light,Paid Upfront,
+473,Energy; Sun King Solar Home System [Stock] - Cash sales with Solar light,Paid Upfront,
+475,Energy; Sun King Pro Paygo-enabled [Stock] - Paygo Loan IHD,Loan,5559.00
+480,Energy; Sun King Solar Home System-PAYGO [Stock] - PayGo Loan IHD,Loan,12508.00
+469,Biolite Home System PayGo-Enabled - Cash sales with Solar light IPP,Paid Upfront,
+472,Energy; Biolite Home System PayGo - Enabled [Stock] - Cash sales with Solar light,Paid Upfront,
+463,SunKing Home System (incl.Radio) PayGo-Enabled - PayGo Loan IHD,Loan,16046.00
+468,Energy; Sun King Pro Paygo-enabled [Stock] - Cash sales with Solar light IPP,Paid Upfront,
+462,Energy; Biolite Home System PayGo - Enabled [Stock] - PayGo Loan IHD,Loan,15408.00
+465,Energy; Sun King Pro Paygo-enabled [Stock] - Paygo Loan,Loan,5559.00
+484,SunKing Home System (incl.Radio) PayGo-Enabled - PayGo Loan Duka,Loan,16046.00
+467,Energy; Sun King Solar Home System-PAYGO [Stock] - PayGo Loan,Loan,12508.00
+459,Cash Sales IHD,Paid Upfront,
+476,Energy; Sun King Solar Home System-PAYGO [Stock] - PayGo Loan IHD,Loan,12508.00
+470,Energy; Sun King Solar Home System [Stock] - Cash Sales with Solar light IPP,Paid Upfront,
+436,Cash Sales,Paid Upfront,
+488,Manual pump; MoneyMaker Hip Kit [Stock] - Paygo One Pump,Loan,17513.00
+405,Individual Loan IPP,Loan,8.00
+483,Energy; Sun King Boom - Paygo Enabled [Stock] - Paygo Loan Duka,Loan,7816.00
+489,Manual pump; MoneyMaker Hip Kit [Stock] - Paygo Two Pumps,Loan,35026.00
+481,Individual Loan IPP,Loan,11.86
+477,SunKing Home System (incl.Radio) - Cash sales with Solar light IHD,Paid Upfront,
+486,Energy; Biolite Home System PayGo - Enabled [Stock] - PayGo Loan Duka,Loan,15408.00
+431,Group Loan  IPP,Loan,11.79
+485,Energy; Sun King Pro Paygo-enabled [Stock] - Paygo Loan Duka,Loan,5559.00
+464,Individual loan 3rd October 2022,Loan,11.86
+466,Energy; Sun King Boom - Paygo Enabled [Stock] - Paygo Loan - Old,Loan,7816.00
+479,Energy; Biolite Home System PayGo - Enabled [Stock] - Cash sales with Solar light IHD,Paid Upfront,
+482,Individual Loan IHD 3rd October 2022,Loan,11.86
+478,Energy; Sun King Boom - Paygo Enabled [Stock] - Cash sales with Solar light IHD,Paid Upfront,
+490,Manual pump; MoneyMaker Hip Kit [Stock] - Paygo Three Pumps,Loan,52511.00
+491,Manual pump; MoneyMaker Hip Kit [Stock] - Paygo Four Pumps,Loan,70028.00
+492,Manual pump; MoneyMaker Hip Kit [Stock] - Paygo Five Pumps,Loan,87509.00
+90,OLD_loan_delivery_maize_bundle_1_acre,Loan,8620.00
+507,Group Loan IHD 3rd October 2022,Loan,16.14
+513,Energy; Biolite Home System [Stock] - Duka SHS Cash Sales,Paid Upfront,
+512,Energy; Biolite Home System [Stock] - Vihiga SHS Cash Sales,Paid Upfront,
+443,Energy; Sun King Boom - Paygo Enabled [Stock] - Paygo Loan IPP,Loan,7816.00
+445,Biolite Home System PayGo-Enabled - PayGo Loan IPP,Loan,15408.00
+493,Manual pump; MoneyMaker Hip Kit [Stock] - Paygo Six Pumps,Loan,105022.00
+508,Individual Loan Duka Credit,Loan,11.86
+494,Manual pump; MoneyMaker Max Kit [Stock] - Paygo One Pump,Loan,25488.00
+495,Manual pump; MoneyMaker Max Kit [Stock] - Paygo Two Pumps,Loan,50976.00
+496,Manual pump; MoneyMaker Max Kit [Stock] - Paygo Three Pumps,Loan,76492.00
+501,Individual Loan with SHS - Sun King Vihiga,Loan,11.53
+449,SunKing Home System (incl.Radio) - Cash sales with Solar light IPP,Paid Upfront,
+497,Manual pump; MoneyMaker Max Kit [Stock] - Paygo Four Pumps,Loan,101966.00
+498,Manual pump; MoneyMaker Max Kit [Stock] - Paygo Five Pumps,Loan,127468.00
+500,Individual Loan with SHS - Biolite Vihiga,Loan,11.53
+450,Energy; Sun King Boom - Paygo Enabled [Stock] - Cash sales with Solar light IPP,Paid Upfront,
+457,Energy; Sun King Solar Home System-PAYGO [Stock] - PayGo Loan IPP,Loan,12508.00
+499,Manual pump; MoneyMaker Max Kit [Stock] - Paygo Six Pumps,Loan,152956.00
+444,Energy; Sun King Pro Paygo-enabled [Stock] - Paygo Loan IPP,Loan,5559.00
+510,Livestock; Chick - 1 day old [Stock] - Paygo 1000 DOC,Loan,121564.94
+402,Individual_loan_delivery_.5_acre,Loan,-8527.00
+511,Rent To Own,Loan,12.86
+503,Livestock; Chick - 1 day old [Stock] - Paygo 300 DOC,Loan,63769.98
+504,Livestock; Chick - 1 day old [Stock] - Paygo 400 DOC,Loan,85025.00
+505,Livestock; Chick - 1 day old [Stock] - Paygo 500 DOC,Loan,106263.00
+509,Individual Loan Kenya Staff,Loan,10.50
+502,Water tank; Kentank; 2000L [stock] - Paygo Loan,Loan,21999.84
+517,Group Loan,Loan,
+518,Group Loan IHD,Loan,
+519,Individual loan,Loan,
+514,Energy; Sun King Solar Home System [Stock] - Duka SHS cash Sales,Paid Upfront,
+515,Energy; Sun King Solar Home System [Stock] - Vihiga SHS Cash Sales,Paid Upfront,
+520,Individual Loan IHD,Loan,
